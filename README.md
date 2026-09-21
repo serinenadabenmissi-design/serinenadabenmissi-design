@@ -1,16 +1,5 @@
 ## Hi there 👋
 
-<!--
-**serinenadabenmissi-design/serinenadabenmissi-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# Hey there! 👋
-
 I'm **Benmissi**, a full-stack & AI engineer based in Algeria.
 
 I hold a Bachelor's in Computer Science and I'm currently pursuing a Master's in Artificial Intelligence. I build across the stack — from frontend to backend to computer vision and embedded systems — and I'm the kind of person who gets a random idea and can't rest until it's real.
