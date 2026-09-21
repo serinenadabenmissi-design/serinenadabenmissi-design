@@ -7,9 +7,9 @@ I hold a Bachelor's in Computer Science and I'm currently pursuing a Master's in
 ## Tech Stack
 
  React, JavaScript,
- Python, Django
+ Python, Django,
 **AI / ML:** PyTorch, scikit-learn, YOLOv8
-**Hardware:** ESP32
+**Hardware:** ESP32, ardouino
 
 ## Featured Projects
 
