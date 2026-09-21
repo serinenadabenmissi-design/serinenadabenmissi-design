@@ -9,7 +9,7 @@ I hold a Bachelor's in Computer Science and I'm currently pursuing a Master's in
  React, JavaScript,
  Python, Django,
 **AI / ML:** PyTorch, scikit-learn, YOLOv8
-**Hardware:** ESP32, ardouino
+**Hardware:** ESP32, Arduino
 
 ## Featured Projects
 
